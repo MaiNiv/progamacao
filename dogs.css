@@ -1,0 +1,28 @@
+.pl{
+    background-color: purple;
+}
+
+
+.ct{
+    text-align: center;
+}
+
+.pa{ 
+    color: purple;
+}
+
+.da{
+    color: white;
+}
+
+img {
+    border-radius: 200px;
+border: 5px solid purple;
+background-color: #f2dfd5;;
+}
+
+.letft{
+    display: flex;
+    justify-content: left;
+    gap: 2rem;
+}
